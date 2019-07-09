@@ -1,1 +1,3 @@
 This is my first text file for my first Git repository.
+Adding a new line after my first commit.
+Adding third line after added abc.txt to staging. abc.txt is not commited yet
